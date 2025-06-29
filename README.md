@@ -1,5 +1,5 @@
--  Hi, I’m Joery
--  I’m interested in coding
--  Student informatica
+-  Hi, I’m Joery 
+-  Heel intelligent
+-  Cum Laude afgestudeerd in Informatica
 
 
